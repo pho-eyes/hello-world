@@ -1,3 +1,3 @@
 # hello-world
 
-Publc health questions answered using routinely-collected admnistrative data. 
+Public health questions answered using routinely-collected admnistrative data. 
